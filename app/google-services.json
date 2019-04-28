@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912226663730",
+    "firebase_url": "https://gezginapp-82da5.firebaseio.com",
+    "project_id": "gezginapp-82da5",
+    "storage_bucket": "gezginapp-82da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912226663730:android:fb73a5505b055094",
+        "android_client_info": {
+          "package_name": "com.denemebaran2.baran.gezgindostum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912226663730-mdricbq5p99ch6g0g78k6d0pfqru1i8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZa55O_H6lzSKLChf7LEFSzTQ6oIDtaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912226663730-mdricbq5p99ch6g0g78k6d0pfqru1i8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
